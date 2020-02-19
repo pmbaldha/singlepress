@@ -3560,7 +3560,8 @@ tbody.collapse.in {
   .input-group-btn:last-child > .btn,
   .input-group-btn:last-child > .btn-group {
     z-index: 2;
-    margin-left: -1px; }
+    margin-left: -1px;
+    padding: 8px; }
 
 .nav {
   margin-bottom: 0;
