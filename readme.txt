@@ -1,5 +1,5 @@
 === Singlepress ===
-Contributors: the WordPress team, passoniate
+Contributors: the WordPress team, pmbaldha, passoniate
 Requires at least: WordPress 4.7
 Tested up to: WordPress 4.7
 Version: 0.9
