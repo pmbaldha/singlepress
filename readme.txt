@@ -1,8 +1,8 @@
 === Singlepress ===
-Contributors: the WordPress team
+Contributors: the WordPress team, passoniate
 Requires at least: WordPress 4.7
 Tested up to: WordPress 4.7
-Version: 0.8
+Version: 0.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: one-column, custom-menu,  featured-images, theme-options, translation-ready
@@ -56,6 +56,9 @@ License: MIT
 Source: https://github.com/rendro/easy-pie-chart/
 
 == Changelog ==
+
+= 0.9 =
+* fix minor style issue
 
 = 0.8 =
 * FIX: Fatal error: Uncaught Error: Class 'wp_bootstrap_navwalker' not found 
