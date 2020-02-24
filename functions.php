@@ -5,7 +5,7 @@
  * @package singlepress
  */
 
-define( 'SINGLEPRESS_VERSION',  '0.9');
+define( 'SINGLEPRESS_VERSION',  '1.0');
 
 if ( !function_exists( 'singlepress_require' ) ) {
 	function singlepress_require($relative_path) {
